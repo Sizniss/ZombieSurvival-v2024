@@ -1,0 +1,12 @@
+name: SelonZombieSurvival
+version: '${version}'
+main: dselon.selonzombiesurvival.SelonZombieSurvival
+api-version: 1.19
+authors: [ DSelon ]
+description: Minecraft server zombie survival plugin
+commands:
+  selonzs:
+    description: Main command of this plugin.
+bstats:
+  id: 18121
+  submit-data: true

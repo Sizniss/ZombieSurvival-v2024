@@ -1,0 +1,41 @@
+{
+  "ServerTitle": "§7§l[ §4§lSelonZS §7§l]",
+  "AutoStart": false,
+  "RestTime": 60,
+  "ReadyTime": 30,
+  "RoundTime": 180,
+  "RoundCount": 2,
+  "Host": {
+    "StartCount": 10,
+    "IntervalCount": 10,
+    "MaxCount": 5
+  },
+  "Hero": {
+    "StartCount": 10,
+    "IntervalCount": 10,
+    "MaxCount": 5
+  },
+  "Carrier": {
+    "MinCount": 4,
+    "AppearanceCount": 2,
+    "Ratio": 2
+  },
+  "Supply": {
+    "AppearanceCount": 5
+  },
+  "Command": {
+    "ConvertDefault": "",
+    "ConvertHuman": "",
+    "ConvertZombie": "",
+    "ConvertHost": "",
+    "ConvertHero": "",
+    "ConvertCarrier": "",
+    "AcquiredSupply": "",
+    "RewardWin": "",
+    "RewardLose": "",
+    "RewardKill": "",
+    "RewardCure": "",
+    "RewardDeath": "",
+    "EscapePenalty": ""
+  }
+}

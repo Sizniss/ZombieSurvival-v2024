@@ -1,0 +1,74 @@
+{
+  "LobbyLocation": {
+    "world": "world",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "yaw": 0,
+    "pitch": 0
+  },
+  "Map": {
+    "Sample": {
+      "Location": [
+        {
+          "world": "world",
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "yaw": 0,
+          "pitch": 0
+        }
+      ],
+      "RestTime": -1,
+      "ReadyTime": -1,
+      "RoundTime": -1,
+      "RoundCount": -1,
+      "Host": {
+        "StartCount": -1,
+        "IntervalCount": -1,
+        "MaxCount": -1
+      },
+      "Hero": {
+        "Enable": false,
+        "StartCount": -1,
+        "IntervalCount": -1,
+        "MaxCount": -1
+      },
+      "Carrier": {
+        "Enable": false,
+        "MinCount": -1,
+        "AppearanceCount": -1,
+        "Ratio": -1
+      },
+      "Supply": {
+        "Enable": false,
+        "AppearanceCount": -1,
+        "Location": [
+          {
+            "world": "world",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "yaw": 0,
+            "pitch": 0
+          }
+        ]
+      },
+      "Command": {
+        "ConvertDefault": "default",
+        "ConvertHuman": "default",
+        "ConvertZombie": "default",
+        "ConvertHost": "default",
+        "ConvertHero": "default",
+        "ConvertCarrier": "default",
+        "AcquiredSupply": "default",
+        "RewardWin": "default",
+        "RewardLose": "default",
+        "RewardKill": "default",
+        "RewardCure": "default",
+        "RewardDeath": "default",
+        "EscapePenalty": "default"
+      }
+    }
+  }
+}
